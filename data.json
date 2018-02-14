@@ -3,6 +3,14 @@
 		{
 			"talk": [
 				{
+					"title": "TEST",
+					"type": "Talk"
+				}
+			]
+		},
+		{
+			"talk": [
+				{
 					"title": "TBD",
 					"type": "Talk"
 				}
@@ -758,20 +766,7 @@
 		{
 			"talk": [
 				{
-					"title": "TBD",
-					"type": "Talk"
-				},
-				{
-					"title": "TBD",
-					"type": "Talk"
-				},
-				{
 					"title": "The Humble border-radius",
-					"type": "Talk",
-					"video": "jjj"
-				},
-				{
-					"title": "TBD",
 					"type": "Talk"
 				}
 			],
